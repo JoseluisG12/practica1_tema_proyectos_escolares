@@ -1,0 +1,9 @@
+idProyecto;apellido;Nombre;dni;categoriaInvestigacion;rol
+1;Pérez;Juan;12345678;2;Director
+1;González;María;23456789;3;Codirector
+1;Rodríguez;Pablo;34567890;3;Integrante
+2;Martínez;Ana;45678901;1;Director
+2;Sánchez;Luis;56789012;2;Codirector
+2;Gómez;Carla;67890123;3;Integrante
+3;Fernández;Diego;78901234;1;Director
+3;Alvarez;Sofía;89012345;2;integrante
